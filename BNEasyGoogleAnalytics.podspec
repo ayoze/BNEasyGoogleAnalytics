@@ -19,5 +19,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Pod/Classes'
   s.public_header_files = 'Pod/Classes/BNEasyGoogleAnalytics.h'
-  s.dependency 'GoogleAnalytics-iOS-SDK', '~> 3.0'
+  s.dependency 'GoogleAnalytics'
 end
