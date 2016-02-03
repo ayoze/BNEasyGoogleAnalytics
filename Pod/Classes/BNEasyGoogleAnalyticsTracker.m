@@ -8,9 +8,9 @@
 
 #import "BNEasyGoogleAnalyticsTracker.h"
 #import "BNEasyGoogleAnalyticsTracker_private.h"
-#import <GoogleAnalytics-iOS-SDK/GAI.h>
-#import <GoogleAnalytics-iOS-SDK/GAIFields.h>
-#import <GoogleAnalytics-iOS-SDK/GAIDictionaryBuilder.h>
+#import <GoogleAnalytics/GAI.h>
+#import <GoogleAnalytics/GAIFields.h>
+#import <GoogleAnalytics/GAIDictionaryBuilder.h>
 
 NSString *const kTwitterSocialNetwork = @"Twitter";
 NSString *const kFacebookSocialNetwork = @"Facebook";
